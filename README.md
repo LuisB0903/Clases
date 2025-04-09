@@ -96,15 +96,15 @@ Este repositorio fue creado para aprender Git[^1].
 
 [^1]: Clase de segundo semestre.
 
-### Este es un título con ID {#0903}
+### [Este es un título con ID](#0903)
 
-Git  
+Git
 : Sistema de control de versiones
 
-Commit  
+Commit
 : Registro de cambios
 
-Diff  
+Diff
 : Diferencia entre dos versiones
 
 ~~Este texto está tachado~~
@@ -118,4 +118,4 @@ Diff
 ==Texto resaltado==
 
 H~2~O  
-E = mc^2^
+mc^2^
