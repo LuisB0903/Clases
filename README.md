@@ -96,7 +96,7 @@ Este repositorio fue creado para aprender Git[^1].
 
 [^1]: Clase de segundo semestre.
 
-### Este es un título con ID {#0903}[Ir al título con ID](#0903)
+### Este es un título con ID {#0903}
 
 Git  
 : Sistema de control de versiones
